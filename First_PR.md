@@ -2,6 +2,6 @@
 
 ## Names here:
 
-1. Gaurav Puniya
+1. John Doe: Learned more about Git & Github.
 
 <--! Fill your names here & Continue the list !-->
